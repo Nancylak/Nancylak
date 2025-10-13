@@ -32,9 +32,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Nancy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nancylak&show_icons=true&hide_title=true)
 
 ---
 
