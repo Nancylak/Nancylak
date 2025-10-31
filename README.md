@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-- Full Stack Development Intern (MERN) at KodNest
+- Full Stack Development Intern at KodNest
 - Passionate about building scalable web applications and deepening my Java expertise
 - Strong foundation in Object-Oriented Programming, algorithms, and data structures
 - Actively practicing problem-solving and coding every day
@@ -27,8 +27,8 @@
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/nancy-lak/)
-- [Email](mailto:nancy.your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/nancy-lakra-541017204/)
+- [Email](mailto:nancylakra99@gmail.com)
 
 ---
 
